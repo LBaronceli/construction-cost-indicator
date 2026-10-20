@@ -1,121 +1,121 @@
 {
   "auckland": {
     "title": "Auckland",
-    "p_commercial_low": 1250,
-    "p_commercial_high": 5625,
-    "p_residential_low": 3000,
-    "p_residential_high": 4500
+    "p_commercial_low": 1410,
+    "p_commercial_high": 6360,
+    "p_residential_low": 3350,
+    "p_residential_high": 5200
   },
   "bay_of_plenty": {
     "title": "Bay of Plenty",
-    "p_commercial_low": 1167,
-    "p_commercial_high": 5250,
-    "p_residential_low": 2800,
-    "p_residential_high": 4200
+    "p_commercial_low": 1320,
+    "p_commercial_high": 5930,
+    "p_residential_low": 3400,
+    "p_residential_high": 4850
   },
   "canterbury": {
     "title": "Canterbury",
-    "p_commercial_low": 1100,
-    "p_commercial_high": 4950,
-    "p_residential_low": 2600,
-    "p_residential_high": 4000
+    "p_commercial_low": 1240,
+    "p_commercial_high": 5590,
+    "p_residential_low": 2900,
+    "p_residential_high": 4600
   },
   "gisborne": {
     "title": "Gisborne",
-    "p_commercial_low": 1100,
-    "p_commercial_high": 4703,
-    "p_residential_low": 2600,
-    "p_residential_high": 3800
+    "p_commercial_low": 1240,
+    "p_commercial_high": 5310,
+    "p_residential_low": 3250,
+    "p_residential_high": 4650
   },
   "hawkes_bay": {
     "title": "Hawke's Bay",
-    "p_commercial_low": 1167,
-    "p_commercial_high": 4950,
-    "p_residential_low": 2800,
-    "p_residential_high": 4000
+    "p_commercial_low": 1320,
+    "p_commercial_high": 5590,
+    "p_residential_low": 3450,
+    "p_residential_high": 4700
   },
   "manawatu_wanganui": {
     "title": "Manawatu-Wanganui",
-    "p_commercial_low": 1100,
-    "p_commercial_high": 4703,
-    "p_residential_low": 2600,
-    "p_residential_high": 3800
+    "p_commercial_low": 1240,
+    "p_commercial_high": 5310,
+    "p_residential_low": 3100,
+    "p_residential_high": 4350
   },
   "marlborough": {
     "title": "Marlborough",
-    "p_commercial_low": 1050,
-    "p_commercial_high": 4095,
-    "p_residential_low": 2500,
-    "p_residential_high": 3300
+    "p_commercial_low": 1190,
+    "p_commercial_high": 4630,
+    "p_residential_low": 2900,
+    "p_residential_high": 4000
   },
   "nelson": {
     "title": "Nelson",
-    "p_commercial_low": 1120,
-    "p_commercial_high": 4500,
-    "p_residential_low": 2700,
-    "p_residential_high": 3900
+    "p_commercial_low": 1270,
+    "p_commercial_high": 5080,
+    "p_residential_low": 3150,
+    "p_residential_high": 4500
   },
   "northland": {
     "title": "Northland",
-    "p_commercial_low": 1167,
-    "p_commercial_high": 4950,
-    "p_residential_low": 2800,
-    "p_residential_high": 4000
+    "p_commercial_low": 1320,
+    "p_commercial_high": 5590,
+    "p_residential_low": 3300,
+    "p_residential_high": 4600
   },
   "otago": {
     "title": "Otago",
-    "p_commercial_low": 1407,
-    "p_commercial_high": 6750,
-    "p_residential_low": 3200,
-    "p_residential_high": 4800
+    "p_commercial_low": 1590,
+    "p_commercial_high": 7630,
+    "p_residential_low": 3850,
+    "p_residential_high": 5500
   },
   "southland": {
     "title": "Southland",
-    "p_commercial_low": 1100,
-    "p_commercial_high": 4703,
-    "p_residential_low": 2600,
-    "p_residential_high": 3800
+    "p_commercial_low": 1240,
+    "p_commercial_high": 5310,
+    "p_residential_low": 2900,
+    "p_residential_high": 4350
   },
   "taranaki": {
     "title": "Taranaki",
-    "p_commercial_low": 1100,
-    "p_commercial_high": 4703,
-    "p_residential_low": 2600,
-    "p_residential_high": 3800
+    "p_commercial_low": 1240,
+    "p_commercial_high": 5310,
+    "p_residential_low": 3000,
+    "p_residential_high": 4350
   },
   "tasman": {
     "title": "Tasman",
-    "p_commercial_low": 1120,
-    "p_commercial_high": 4500,
-    "p_residential_low": 2700,
-    "p_residential_high": 3900
+    "p_commercial_low": 1270,
+    "p_commercial_high": 5080,
+    "p_residential_low": 3050,
+    "p_residential_high": 4500
   },
   "waikato": {
     "title": "Waikato",
-    "p_commercial_low": 1167,
-    "p_commercial_high": 5250,
-    "p_residential_low": 2800,
-    "p_residential_high": 4200
+    "p_commercial_low": 1320,
+    "p_commercial_high": 5930,
+    "p_residential_low": 3150,
+    "p_residential_high": 4850
   },
   "wellington": {
     "title": "Wellington",
-    "p_commercial_low": 1250,
-    "p_commercial_high": 5625,
-    "p_residential_low": 3000,
-    "p_residential_high": 4400
+    "p_commercial_low": 1410,
+    "p_commercial_high": 6360,
+    "p_residential_low": 3350,
+    "p_residential_high": 5050
   },
   "west_coast": {
     "title": "West Coast",
-    "p_commercial_low": 967,
-    "p_commercial_high": 4350,
-    "p_residential_low": 2500,
-    "p_residential_high": 3300
+    "p_commercial_low": 1090,
+    "p_commercial_high": 4920,
+    "p_residential_low": 2900,
+    "p_residential_high": 3950
   },
   "generic": {
     "title": "National Average",
-    "p_commercial_low": 1217,
-    "p_commercial_high": 5475,
-    "p_residential_low": 2800,
-    "p_residential_high": 4500
+    "p_commercial_low": 1380,
+    "p_commercial_high": 6190,
+    "p_residential_low": 3150,
+    "p_residential_high": 5200
   }
 }
